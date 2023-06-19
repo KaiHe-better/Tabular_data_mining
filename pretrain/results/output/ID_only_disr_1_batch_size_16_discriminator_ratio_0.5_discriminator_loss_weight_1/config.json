@@ -1,0 +1,26 @@
+{
+  "ID": "only_disr_1",
+  "gpu": "1",
+  "load_ckpt": null,
+  "batch_size": 16,
+  "grad_iter": 1,
+  "lr": 1e-05,
+  "train_file_path": "./datasets/raw_data/In-vehicleCouponRecommendation/in-vehicle-coupon-recommendation.csv",
+  "max_cell_len": 15,
+  "shift": null,
+  "shift_ratio": 0.3,
+  "discriminator_ratio": 0.5,
+  "task_list": [
+    "[",
+    "1",
+    "]"
+  ],
+  "shift_loss_weight": 1,
+  "discriminator_loss_weight": 1.0,
+  "inter_num": 50,
+  "epoch": 100,
+  "save_ckpt": true,
+  "save_res": true,
+  "seed": 666,
+  "num_columns": 25
+}

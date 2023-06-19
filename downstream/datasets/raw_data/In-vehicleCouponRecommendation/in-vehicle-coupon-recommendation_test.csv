@@ -1,0 +1,72 @@
+destination,passanger,weather,temperature,time,coupon,expiration,gender,age,marital status,has children,education,occupation,income,car,Bar,Coffee House,Carry Away,Restaurant Less Than 20,Restaurant 20 To 50,to Coupon GEQ 5min,to Coupon GEQ 15min,to Coupon GEQ 25min,direction same,direction opp,Y
+No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,0,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,0
+No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,0,0,0,1,1
+No Urgent Place,Kid(s),Sunny,55,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+Home,Alone,Sunny,55,6PM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,0,0,1,0,1
+Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,0,0,0,1,0
+Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,1,0,1,1
+Work,Alone,Sunny,55,7AM,Bar,1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,1,0,1,0
+Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,0,0,1,0,1
+Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,0,0,0,1,0
+Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,21,Unmarried partner,1,Some college - no degree,Unemployed,$37500 - $49999,,never,never,,4~8,1~3,1,1,0,0,1,1
+No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,0
+No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,1
+No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,0
+Home,Alone,Sunny,55,6PM,Bar,1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,1,0,1
+Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,0
+Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,0
+Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,1,0,1,0
+Work,Alone,Sunny,55,7AM,Bar,1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,1,0,1,1
+Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,0
+Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,1,0,1
+Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,0,0,0,1,1
+Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,21,Single,0,Bachelors degree,Architecture & Engineering,$62500 - $74999,,never,less1,4~8,4~8,less1,1,1,0,0,1,0
+No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,0
+No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,1
+No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,1
+Home,Alone,Sunny,55,6PM,Bar,1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,1,0,0
+Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,0
+Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,0
+Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,1,0,1,0
+Work,Alone,Sunny,55,7AM,Bar,1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,1,0,1,0
+Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,0
+Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,1,0,1
+Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,0,0,0,1,0
+Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,46,Single,0,Some college - no degree,Student,$12500 - $24999,,never,4~8,1~3,1~3,never,1,1,0,0,1,0
+No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Male,46,Married partner,1,Bachelors degree,Education&Training&Library,$75000 - $87499,,less1,1~3,1~3,1~3,less1,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,46,Married partner,1,Bachelors degree,Education&Training&Library,$75000 - $87499,,less1,1~3,1~3,1~3,less1,1,0,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Male,46,Married partner,1,Bachelors degree,Education&Training&Library,$75000 - $87499,,less1,1~3,1~3,1~3,less1,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Male,46,Married partner,1,Bachelors degree,Education&Training&Library,$75000 - $87499,,less1,1~3,1~3,1~3,less1,1,1,0,0,1,1
+No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,46,Married partner,1,Bachelors degree,Education&Training&Library,$75000 - $87499,,less1,1~3,1~3,1~3,less1,1,1,0,0,1,1

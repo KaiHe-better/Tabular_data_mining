@@ -1,0 +1,25 @@
+{
+  "ID": "4",
+  "gpu": "2",
+  "load_ckpt": "./ckpt/saved_ckpt/16600.pt",
+  "batch_size": 4,
+  "grad_iter": 1,
+  "lr": 1e-05,
+  "train_file_path": "./datasets/raw_data/In-vehicleCouponRecommendation/in-vehicle-coupon-recommendation.csv",
+  "max_cell_len": 15,
+  "shift": null,
+  "shift_ratio": 0.3,
+  "discriminator_ratio": 0.2,
+  "task_list": [
+    "1",
+    "2"
+  ],
+  "shift_loss_weight": 1,
+  "discriminator_loss_weight": 0.5,
+  "inter_num": 50,
+  "epoch": 100,
+  "save_ckpt": true,
+  "save_res": true,
+  "seed": 666,
+  "num_columns": 25
+}
